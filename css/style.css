@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: gray;
+}
+.card{
+    background-color: white;
+    padding-bottom: 30px;
+}
+h1 {
+    padding-top: 12px;
+    font-weight: bolder;
+    font-size: 78px;
+    font-family: Impact;
+    background-color: khaki;
+}
+p{
+    font-size: 35px;
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: darkgoldenrod;
+    color: white;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+button:hover{
+    background-color: crimson;
+}
